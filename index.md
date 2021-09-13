@@ -1,4 +1,4 @@
-## Welcome to Paul'blog !
+## Welcome to Paul's blog !
 
 You can use the [editor on GitHub](https://github.com/PaulFrnDlv/PaulsMasterVARBlog.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -11,7 +11,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
+# Formation Blender
 ## Header 2
 ### Header 3
 
