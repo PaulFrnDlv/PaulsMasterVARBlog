@@ -1,2 +1,2 @@
-# PaulsMasterVARBlog.github.io
+# PaulsMasterVARBlog
 Blog made during my Master IPP VAR
