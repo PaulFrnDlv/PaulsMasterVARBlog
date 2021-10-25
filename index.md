@@ -16,3 +16,14 @@ Enjoy !
 
 
 ### Artificial Intelligence for VR/AR
+
+* Lab 1 : Data labelling using linear classifiers
+* Lab 2 : Designing artificial neural networks (ANN) for practical application
+* Lab 3 : Handwritten classification using ANN/CNN
+* Lab 4 : Cats/Dogs classification using a reduced training dataset
+
+
+### Reinforcement learning
+
+
+### Deep sequence modeling
