@@ -1,8 +1,11 @@
 ## Welcome to Paul's blog !
 
-You can use the [editor on GitHub](https://github.com/PaulFrnDlv/PaulsMasterVARBlog.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+My name is Paul Fournier--Delouvée and I am a student in the last year of engineering school Télécom SudParis in Evry.
+I am specialized in the imagery and artificial intelligence fields.
+This year, I have the chance to follow the VAR master, an IPP master 2 dedicated to the virtual and augmented reality.
+This blog is the place where you could see all the projects I had during this master.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Enjoy !
 
 ### Markdown
 
